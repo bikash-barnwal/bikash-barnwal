@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bikash Prasad Barnwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;LLM+%26+RAG+Enthusiast;DevOps+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;LLM+Engineer;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 
 > **"Let's build something extraordinary together!"**
 <p align="center">
-  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20impressed%20by%20your%20work.%20I%27d%20like%20to%20explore%20potential%20collaboration%20opportunities.%0A%0ABest%20regards" target="_blank">
+  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20impressed%20by%20your%20work.%20I%20would%20like%20to%20discuss%20potential%20collaboration%20opportunities.%0A%0ALooking%20forward%20to%20hearing%20from%20you.%0A%0ABest%20regards" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-bikashprasadbarnwal@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -40,9 +40,9 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -93,12 +93,12 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikash-barnwal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bikash-barnwal&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=bikash-barnwal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikash-barnwal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikash-barnwal&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding GIF" width="300" />
 </p>
 
@@ -130,7 +130,7 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 </p>
 
 <p align="center">
-  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20impressed%20by%20your%20work.%20Let%27s%20connect!" target="_blank">
+  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20impressed%20by%20your%20work.%0A%0ALooking%20forward%20to%20hearing%20from%20you%21" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-bikashprasadbarnwal@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
