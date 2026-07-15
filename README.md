@@ -18,7 +18,7 @@
 ## 🚀 About Me
 I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding experience**. Currently working as a **Software Engineer at Codem**, I have hands-on experience in **developing, testing, and deploying** scalable products using modern tech stacks and **Agile methodologies**. I enjoy solving complex problems and exploring new technologies like **TypeScript** and **Generative AI**. I’ve also participated in a **48-hour hackathon**, delivering innovative solutions under tight deadlines.
 
-- 🌍 Based in **West Bengal, India**
+- 🌍 Based in **India**
 - 💡 Skilled in crafting **dynamic, responsive, and user-friendly applications**
 - 🤖 Building with **LLMs** — self-hosting models, **RAG pipelines**, and AI-powered features
 - ⚙️ Comfortable with **server management** — deploying, containerizing (**Docker**), and monitoring apps in production
