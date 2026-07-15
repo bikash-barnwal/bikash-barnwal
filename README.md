@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bikash Prasad Barnwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;LLM+%7C+RAG+%7C+DevOps+Explorer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;LLM+%26+RAG+Enthusiast;DevOps+Practitioner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding experience**. Currently working as a **Software Engineer at Codem**, I have hands-on experience in **developing, testing, and deploying** scalable products using modern tech stacks and **Agile methodologies**. I enjoy solving complex problems and exploring new technologies like **TypeScript** and **Generative AI**. I’ve also participated in a **48-hour hackathon**, delivering innovative solutions under tight deadlines.
+I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding experience**. Currently working as a **Software Engineer at Codem**, I have hands-on experience in **developing, testing, and deploying scalable applications**.
 
 - 🌍 Based in **India**
 - 💡 Skilled in crafting **dynamic, responsive, and user-friendly applications**
@@ -26,10 +26,9 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 - 🎯 Currently mastering **TypeScript** to elevate my development skills
 - 📃 <a href="https://drive.google.com/file/d/1JcOxCO-vno3C5nB2ypPcFbes1vfjP20m/view" target="_blank" rel="noopener noreferrer">Download My Resume</a>
 
-> **"Let build something extraordinary together!"**
+> **"Let's build something extraordinary together!"**
 <p align="center">
-  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
-[Your GitHub / LinkedIn / Portfolio link]" target="_blank">
+  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20impressed%20by%20your%20work.%20I%27d%20like%20to%20explore%20potential%20collaboration%20opportunities.%0A%0ABest%20regards" target="_blank">
     <img src="https://img.shields.io/badge/Email-bikashprasadbarnwal@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -94,12 +93,12 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikash-design-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Bikash-design-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bikash-barnwal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=bikash-barnwal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-design-lab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikash-barnwal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding GIF" width="300" />
 </p>
 
@@ -131,8 +130,7 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 </p>
 
 <p align="center">
-  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
-[Your GitHub / LinkedIn / Portfolio link]" target="_blank">
+  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20impressed%20by%20your%20work.%20Let%27s%20connect!" target="_blank">
     <img src="https://img.shields.io/badge/Email-bikashprasadbarnwal@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -147,7 +145,7 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 - 🚀 Explore my work on [Bento](https://bento.me/bikash-prasad-barnwal) and [Portfolio](https://heybikash.vercel.app/)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash-design-lab&theme=radical&hide_border=true&show_months=true&date_format=mmm%20yy" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikash-barnwal&theme=radical&hide_border=true&show_months=true&date_format=mmm%20yy" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -166,10 +164,8 @@ A **Market place platform** that connects Buyer/Vendors with Farmers. Built with
 - 🔍 Product Filtering & Sorting by name, price, category, etc.
 - ⏱️ Rate Limiter – max 25 requests per 15 minutes for enhanced security
 - 🤳 Cloudinary - Profile image handling made easy with Multer + Cloudinary.
-- still working
+- Still working on improvements and new features
+
 ---
 
-
 🚀 **Ready to collaborate and build something amazing? Let's connect!**
-
-</div>
