@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bikash Prasad Barnwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;LLM+%7C+RAG+%7C+DevOps+Explorer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,15 +23,17 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 
 - 🌍 Based in **West Bengal, India**
 - 💡 Skilled in crafting **dynamic, responsive, and user-friendly applications**
+- 🤖 Building with **LLMs** — self-hosting models, **RAG pipelines**, and AI-powered features
+- ⚙️ Comfortable with **server management** — deploying, containerizing (**Docker**), and monitoring apps in production
 - 📈 Always learning and adapting to cutting-edge tools and frameworks
 - 🎯 Currently mastering **TypeScript** to elevate my development skills
 - 📃 <a href="https://drive.google.com/file/d/1JcOxCO-vno3C5nB2ypPcFbes1vfjP20m/view" target="_blank" rel="noopener noreferrer">Download My Resume</a>
 
 > **"Let build something extraordinary together!"**
 <p align="center">
-  <a href="mailto:Vmodi5425@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
+  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
 [Your GitHub / LinkedIn / Portfolio link]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Vmodi5425@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-bikashprasadbarnwal@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -64,6 +66,30 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
+
+### 🤖 AI / LLM Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Hosting-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Hosting" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Vector_Databases-00B2A9?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB" />
+</p>
+
+### ⚙️ DevOps & Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Server_Deployment-4B32C3?style=for-the-badge&logo=serverless&logoColor=white" alt="Server Deployment" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Observability-5C2D91?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="Observability" />
 </p>
 
 ---
@@ -108,9 +134,9 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 </p>
 
 <p align="center">
-  <a href="mailto:Vmodi5425@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
+  <a href="mailto:bikashprasadbarnwal@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
 [Your GitHub / LinkedIn / Portfolio link]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Vmodi5425@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-bikashprasadbarnwal@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -119,6 +145,7 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 ## 🌟 My Coding Journey
 
 - 💻 Aspiring to excel as a **Full-Stack Developer**
+- 🧠 Diving deeper into **LLM hosting, RAG systems, Docker, and production observability**
 - 🌱 Actively seeking opportunities to grow both **personally and professionally**
 - 🚀 Explore my work on [Bento](https://bento.me/bikash-prasad-barnwal) and [Portfolio](https://heybikash.vercel.app/)
 
@@ -142,36 +169,10 @@ A **Market place platform** that connects Buyer/Vendors with Farmers. Built with
 - 🔍 Product Filtering & Sorting by name, price, category, etc.
 - ⏱️ Rate Limiter – max 25 requests per 15 minutes for enhanced security
 - 🤳 Cloudinary - Profile image handling made easy with Multer + Cloudinary.
-
-
-📱 Application Flow & 🎛️ Dashboard
-<div align="center">
-<img width="2983" height="1256" alt="diagram-export-29-09-2025-12_14_15" src="https://github.com/user-attachments/assets/634243fc-f29f-4e13-a819-8217a7651ae4" />
-
-<img src="https://github.com/user-attachments/assets/eb68dc88-f939-4adc-8aee-dd9ad855b358" width="400px" alt="Dashboard"/>
-<br><i>↗️ Comprehensive analytics & controls</i>
-⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-📊 Market Analytics
-<img src="https://github.com/user-attachments/assets/079be782-1d7c-42d5-a080-961498c71b71" width="400px" alt="Data Visualization"/>
-<br><i>↗️ Middlemen vs Farmers pricing comparison</i>
-⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-👤 Profile Management
-<img src="https://github.com/user-attachments/assets/a167c6ee-c4d6-4490-bf3d-00d083891c4e" width="400px" alt="Profile Page"/>
-<br><i>↗️ User-friendly profile interface</i>
-⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-🛒 Product Marketplace
-<img src="https://github.com/user-attachments/assets/f3603065-71a5-4d17-b17a-054367f0b441" width="400px" alt="Browse Products"/>
-<br><i>↗️ Easy browsing & purchasing experience</i>
-⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-↗🎨 Modern UI Design
-<img src="https://github.com/user-attachments/assets/69b890ab-915d-4199-85e1-e7cc5c8f5ac0" width="400px" alt="Footer"/>
-<br><i> ↗️Clean & professional layout design</i>
-</div>
-
+- still working
 ---
 
 
 🚀 **Ready to collaborate and build something amazing? Let's connect!**
 
 </div>
-
