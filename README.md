@@ -24,7 +24,6 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 - ⚙️ Comfortable with **server management** — deploying, containerizing (**Docker**), and monitoring apps in production
 - 📈 Always learning and adapting to cutting-edge tools and frameworks
 - 🎯 Currently mastering **TypeScript** to elevate my development skills
-- 📃 <a href="https://drive.google.com/file/d/1JcOxCO-vno3C5nB2ypPcFbes1vfjP20m/view" target="_blank" rel="noopener noreferrer">Download My Resume</a>
 
 > **"Let's build something extraordinary together!"**
 <p align="center">
