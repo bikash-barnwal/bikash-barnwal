@@ -184,12 +184,4 @@ A team goal tool for setting OKRs and tracking progress across a team.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bikash-barnwal&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center"><b>Let's build something extraordinary together.</b></p>
