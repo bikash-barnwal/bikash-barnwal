@@ -174,6 +174,10 @@ A team goal tool for setting OKRs and tracking progress across a team.
 
 ---
 
+<img src="https://raw.githubusercontent.com/bikash-barnwal/bikash-barnwal/output/github-snake.svg" alt="Snake animation" />
+
+---
+
 ## 🎓 Learning
 
 - PG Certificate in Cyber Security, IGNOU (pursuing)
