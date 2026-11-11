@@ -172,8 +172,6 @@ A real-time marketplace that connects buyers and vendors with farmers.
 ### [OKR Tracker](https://okr-trackerxvte.onrender.com)
 A team goal tool for setting OKRs and tracking progress across a team.
 
----
-## 📊 GitHub Stats
 
 <p align="center">
   <picture>
@@ -182,6 +180,7 @@ A team goal tool for setting OKRs and tracking progress across a team.
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bikash-barnwal/bikash-barnwal/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 ---
 
 ## 🎓 Learning
